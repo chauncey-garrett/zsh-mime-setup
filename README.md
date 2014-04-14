@@ -10,27 +10,14 @@ It is recommended to run this plugin first in the list to avoid overwriting any 
 
 ## Useful commands
 
-| Command string | Value
-| ------------ | -----------
-| `alias -s` | run to list all suffix aliases
+| Command string      | Value
+| ------------        | -----------
+| `alias -s`          | run to list all suffix aliases
 | `zsh-mime-setup -l` | handler the shell will use
-
-## Try it out (with [antigen][antigen])
-
-    antigen bundle chauncey-garrett/zsh-mime-setup
 
 ## Like it?
 
-Add it to your `.zshrc`:
-
-    source "/path-to-antigen-clone/antigen.zsh"
-    antigen use prezto # OR oh-my-zsh
-    ...
-    antigen bundle chauncey-garrett/zsh-mime-setup
-    ...
-    antigen apply
-	
-If not, open an issue!
+Add it to your `.zshrc`; If not, open an issue!
 
 ## Author(s)
 
@@ -40,7 +27,6 @@ If not, open an issue!
 
 [![][flattr_img]][flattr]
 
-[antigen]:           https://github.com/zsh-users/antigen
 [zsh-mime-setup]:    http://www.opensource.apple.com/source/zsh/zsh-48/zsh/Functions/MIME/zsh-mime-setup
 [issue_tracker]:     https://github.com/chauncey-garrett/zsh-mime-setup/issues
 [chauncey-garrett]:  https://github.com/chauncey-garrett
