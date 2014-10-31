@@ -1,8 +1,8 @@
 # Zsh module for zsh-mime-setup
 
-#### Designed for Prezto...compatiable with Oh My Zsh.
+#### Designed for Prezto...compatible with Oh My Zsh.
 
-Inits [zsh-mime-setup][zsh-mime-setup].
+Inits [zsh-mime-setup][1].
 
 `zsh-mime-setup` will setup Zsh with system default associations for file suffixes (i.e., `alias -s file-extension=system-default-handler`)
 
@@ -17,20 +17,20 @@ It is recommended to run this plugin first in the list to avoid overwriting any 
 
 ## Like it?
 
-Add it to your `.zshrc`; If not, open an issue!
+If you have feature suggestions, please open an [issue][2]. If you have contributions, open a [pull request][3]. I'd love to expand this library as much as is possible.
 
 ## Author(s)
 
-*The author(s) of this module should be contacted via the [issue tracker][issue_tracker].*
+*The author(s) of this module should be contacted via the [issue tracker][4].*
 
-  - [Chauncey Garrett][chauncey-garrett]
+  - [Chauncey Garrett][5]
 
-[![][flattr_img]][flattr]
-
-[zsh-mime-setup]:    http://www.opensource.apple.com/source/zsh/zsh-48/zsh/Functions/MIME/zsh-mime-setup
-[issue_tracker]:     https://github.com/chauncey-garrett/zsh-mime-setup/issues
-[chauncey-garrett]:  https://github.com/chauncey-garrett
-[flattr_img]:        https://api.flattr.com/button/flattr-badge-large.png
-[flattr]:            https://flattr.com/submit/auto?user_id=vrtcl1dvoshun&url=https://github.com/chauncey-garrett/zsh-mime-setup
+[![][6]](http://chauncey.io/about/index.html#donate)
 
 
+[1]: http://www.opensource.apple.com/source/zsh/zsh-48/zsh/Functions/MIME/zsh-mime-setup
+[2]: https://github.com/chauncey-garrett/zsh-mime-setup/issues "chauncey-garrett/zsh-mime-setup/issues"
+[3]: https://github.com/chauncey-garrett/zsh-mime-setup/pull-request "chauncey-garrett/zsh-mime-setup/pulls"
+[4]: https://github.com/chauncey-garrett/zsh-mime-setup/issues "chauncey-garrett/zsh-mime-setup/issues"
+[5]: https://github.com/chauncey-garrett "chauncey-garrett"
+[6]: /img/donate.png
