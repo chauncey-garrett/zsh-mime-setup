@@ -44,7 +44,7 @@ It is recommended to run this plugin first in the list to avoid overwriting any 
 
 # Like it?
 
-If you have feature suggestions, please open an [issue](https://github.com/chauncey-garrett/zsh-mime-setup/issues "chauncey-garrett/zsh-mime-setup/issues"). If you have contributions, open a [pull request](https://github.com/chauncey-garrett/zsh-mime-setup/pull-request "chauncey-garrett/zsh-mime-setup/pulls"). I'd love to expand this library as much as is possible.
+If you have feature suggestions, please open an [issue](https://github.com/chauncey-garrett/zsh-mime-setup/issues "chauncey-garrett/zsh-mime-setup/issues"). If you have contributions, open a [pull request](https://github.com/chauncey-garrett/zsh-mime-setup/pulls "chauncey-garrett/zsh-mime-setup/pulls"). I'd love to expand this library as much as is possible.
 
 # Author(s)
 
