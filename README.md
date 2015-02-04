@@ -12,13 +12,13 @@ external-url:
 tags:
   - zsh
   - mime
-  - how-to
+  - how to
   - plugin
   - shell
   - github
 category: project
 description: Set default file associations for file suffixes using Zsh.
-keywords: TODO
+keywords:
 sharing: true
 comments: false
 footer: true
